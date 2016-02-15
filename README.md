@@ -1,0 +1,2 @@
+# AutomatedAttendanceSystem
+Sem VIII project
