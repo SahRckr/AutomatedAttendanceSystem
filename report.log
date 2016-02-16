@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.15)  15 FEB 2016 15:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.15)  16 FEB 2016 15:20
 entering extended mode
 **report.tex
 (report.tex
@@ -791,7 +791,16 @@ Missing character: There is no ™ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
-) [4] [5] (reference.tex
+ [4]
+Overfull \hbox (424.20555pt too wide) in paragraph at lines 45--61
+ [] 
+ []
+
+) [5] (softwarerequirementspecification.tex) [6
+
+
+
+] (reference.tex
 bibitemlist
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
@@ -805,11 +814,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
 ourceforge . net / apps / mediawiki /$
  []
 
-) [6
+) [7
 
 
 
-] (appendix.tex) [7
+] (appendix.tex) [8
 
 
 
@@ -820,33 +829,43 @@ ourceforge . net / apps / mediawiki /$
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 85.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 85.
  (report.aux (title.aux) (certificate.aux)
-(acknowledge.aux) (abstract.aux) (introduction.aux) (reference.aux)
-(appendix.aux))
+(acknowledge.aux) (abstract.aux) (introduction.aux)
+(softwarerequirementspecification.aux) (reference.aux) (appendix.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 85.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 85.
-Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: BC6D54125D76959ED9CFE317A98EA766;801.
+
+
+Package rerunfilecheck Warning: File `report.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `report.out':
+(rerunfilecheck)             Before: BC6D54125D76959ED9CFE317A98EA766;801
+(rerunfilecheck)             After:  BE37C454BE185C41303BFF1D34AAFEDD;1252.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 11653 strings out of 493698
- 166238 string characters out of 3144383
+ 11680 strings out of 493698
+ 166760 string characters out of 3144383
  310564 words of memory out of 3000000
- 14792 multiletter control sequences out of 15000+200000
+ 14796 multiletter control sequences out of 15000+200000
  9931 words of font info for 35 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  40i,12n,39p,1094b,420s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmtt12.pfb>
-Output written on report.pdf (13 pages, 471347 bytes).
+pdfTeX warning (dest): name{section*.6} has been referenced but does not exis
+t, replaced by a fixed one
+
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mtt12.pfb>
+Output written on report.pdf (14 pages, 475806 bytes).
 PDF statistics:
- 192 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 500000)
+ 218 PDF objects out of 1000 (max. 8388607)
+ 54 named destinations out of 1000 (max. 500000)
  128 words of extra memory for PDF output out of 10000 (max. 10000000)
 
